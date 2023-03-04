@@ -38,4 +38,4 @@ def make_image(message):
     image.save('{}.png'.format(message))
     
 # 실행
-make_image("I like Chicken!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11") 
+make_image("I like!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11") 
