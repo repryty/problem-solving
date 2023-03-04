@@ -201,13 +201,20 @@
 # turtle.mainloop()
 
 # Deutschland, Deutschland, Über alles. Über alles in der welt!
-
-i=1
-e=0
-while i<100:
-    if i%3==0:
-        e+=i
-    i+=1
-print(e)
-
+# inp=input()
+# i=1
+# e=0
+# for i in range(len(inp)):
+#     e+=int(inp[i])
+# print(e)
+#간장공장공장장은간공장장이고된장공장공장장은김공장장이다
+#경찰청쇠창살
 # Willhelm von Preußen, Die König von Königreich Preußenland und Kaiser von Deutsches Reich
+
+num = 12345678901135466548531658496513216489786521317846512148746512148794651214784651264897465132164986513156489784651
+all= 0
+while num>0:
+    exp=num%10
+    all+=exp
+    num=num//10
+print(all)
