@@ -200,3 +200,14 @@
 #     tt.right(60)
 # turtle.mainloop()
 
+# Deutschland, Deutschland, Über alles. Über alles in der welt!
+
+i=1
+e=0
+while i<100:
+    if i%3==0:
+        e+=i
+    i+=1
+print(e)
+
+# Willhelm von Preußen, Die König von Königreich Preußenland und Kaiser von Deutsches Reich
