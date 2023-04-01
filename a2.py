@@ -184,7 +184,7 @@ for i in range(4): #0-3
     name[i].color(color[i])
     name[i].penup()
     tt.speed(0)
-    name[i].goto(-300, i*80)
+    name[i].goto(-300, i*80-100)
     name[i].pendown()
     tt.speed(10)
     for j in range(20):
