@@ -176,5 +176,17 @@ from random import randint
 # tt.mainloop()
 
 color=["red", "blue","pink", "yellow"]
-for i in range(4):
-    tt
+name=["k", "r", "b", "n"]
+tt.bgcolor("black")
+
+for i in range(4): #0-3
+    name[i] = tt.Turtle()
+    name[i].color(color[i])
+    name[i].penup()
+    tt.speed(0)
+    name[i].goto(-300, i*80)
+    name[i].pendown()
+    tt.speed(10)
+    for j in range(20):
+        name[i].forward(randint(5, 25))
+tt.mainloop()
