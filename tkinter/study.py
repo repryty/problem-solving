@@ -33,3 +33,5 @@ b2.pack(side=RIGHT, padx=20, pady=20)
     
 
 window.mainloop()
+
+# pip install pyinstaller
