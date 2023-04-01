@@ -175,7 +175,7 @@ from random import randint
 #     tt.right(angle)
 # tt.mainloop()
 
-color=["red", "blue","pink", "yellow"]
+"""color=["red", "blue","pink", "yellow"]
 name=["k", "r", "b", "n"]
 tt.bgcolor("black")
 
@@ -189,4 +189,31 @@ for i in range(4): #0-3
     tt.speed(10)
     for j in range(20):
         name[i].forward(randint(5, 25))
-tt.mainloop()
+tt.mainloop()"""
+### 리스트 함축 ###
+"""list1=[3,4,5]
+list2=[x*2 for x in list1]
+print(list2)"""
+
+### 조건이 붙는 리스트 함축 ###
+"""Double = [i for i in range(10, 50) if i % 2 == 0]
+print(Double)"""
+
+### phone.py ###
+
+## max와 min ##
+"""nums=[103,1234,13466,426,264,46246425626,141353155]
+print(max(nums))
+print(min(nums))
+nums.sort()
+print(nums)"""
+
+### 딕셔너리 ### 
+
+mobile = {"고양이": "01010215933", "강아지": "01034990515"}
+print(mobile["강아지"])
+
+if "토끼" in mobile:
+    print("Ja")
+else:
+    print("Nein")
