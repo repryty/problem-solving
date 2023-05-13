@@ -15,6 +15,18 @@ buttons=[
     '1', '2', '3', 'X', ' ',
     '.', '0', '=', '/', ' '
 ]
+
+def click(key):
+    if key=="=":
+        end=str(eval(ent1.get()))
+        ent1.delete(0, END)
+        ent1.insert(END, end)
+    elif key=="C":
+        ent1.delete(0, END)
+    elif key=="X":
+        ent1.insert(END, "*")
+    else:
+        ent1.insert(END, key)
 x = 0
 for i in buttons:
     cmd = lambda y=i: click(y)
