@@ -1,8 +1,6 @@
 from tkinter import * #tkinter.뭐시기 안쓰고 각자 가져오기
 from tkinter.font import *
 
-### HTML은 위대하고 CSS와 JS는 그의 사도이다 HTML은 위대하고 CSS와 JS는 그의 사도이다 ###
-
 window = Tk()
 font1=Font(family="나눔스퀘어라운드 Regular", size=30)
 font2=Font(family="궁서체")
