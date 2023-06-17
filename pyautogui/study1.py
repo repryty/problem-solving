@@ -1,5 +1,7 @@
 import pyautogui as g
 import time
+import pyperclip as pc
+import random
 
 # def access():
 #     e=g.prompt("비밀번호", title="보안 확인중")
@@ -67,3 +69,33 @@ if position!=None:
     g.hotkey("hangul")
 g.write("youtube.com", interval=0.1)
 g.hotkey("enter")
+time.sleep(5)
+
+for i in range(4): g.press("tab")
+time.sleep(0.5)
+pc.copy("프리드리히 대왕 척탄병 행진곡")
+g.hotkey("Ctrl", "v")
+
+g.press("space")    
+time.sleep(1)
+g.press("enter")
+g.press("tab")
+g.press("tab")
+g.hotkey("shift","tab")
+g.hotkey("shift","tab")
+time.sleep(1)
+g.press("enter")
+time.sleep(3)
+g.hotkey("ctrl", "t")
+g.write("naver.com", interval=0.1)
+g.press("enter")
+time.sleep(2)
+# position=g.locateCenterOnScreen("search.png")
+# print("pos:", position)
+# for i in range(5): g.click(position)
+strings=["독일 제국", "청천백일만지홍기", "찰스 3세", "프로이센 왕국"][random.randint(0, 3)]
+pc.copy(strings)
+g.hotkey("Ctrl", "v")
+g.press("enter")
+for i in range(200):
+    g.scroll(-100)
