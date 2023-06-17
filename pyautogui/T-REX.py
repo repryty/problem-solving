@@ -14,5 +14,5 @@ while True:
     grayscaled=ImageOps.grayscale(screen)
     combined=array(grayscaled.getcolors()).sum()
     print(combined)
-    if combined!=1755 and combined!=1500:
-        g.press("space")
+    # if combined!=1755 and combined!=1500:
+    #     g.press("space")
