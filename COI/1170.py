@@ -1,0 +1,4 @@
+highest=int(input())
+
+listOfMoneys=[]
+
