@@ -12,3 +12,4 @@ while True:
         display.set_pixel(i, i, 0)
         display.set_pixel(4 - i, i, 0)
     sleep(1000)
+    print("wow")
