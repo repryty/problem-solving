@@ -1,14 +1,7 @@
-inp=input()
-inp2=[]
-for i in inp:
-    inp2.append(input())
-
-def fibonacci(n):
-    if n==0:
-        print(0)
-    elif n==1:
-        print(1)
-    else:
-        return fibonacci(n-1)+fibonacci(n-2)
-
-print(fibonacci(30))
+T=int(input())
+for i in range(T):
+    N = int(input())
+    zero, one=1,0
+    for i in range(N):
+        zero, one=one, zero+one
+    print(zero, one)
