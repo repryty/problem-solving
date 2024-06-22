@@ -1,0 +1,1 @@
+[2024 Class](https://github.com/repryty/2024_Study)
