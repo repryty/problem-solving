@@ -1,0 +1,403 @@
+appreciate	감사하다
+available	이용 가능한
+switch	전환
+discount	할인
+current	현재의
+subscription	구독료
+access	이용하다, 접근하다; 이용, 접근
+via	~을 통해
+selection	선택, 선정
+article	기사
+beat	(심장이) 뛰다, 박동하다
+rapidly	빠르게
+apply to	~ ~에 지원하다
+grade	성적, 학점
+application letter	지원서
+tear	찢다
+envelope	봉투
+emerge	드러내다, 나오다
+opening phrase	첫 구절
+fantasy	공상, 상상
+negative	부정적인
+destructive	파괴적인
+psychologist	심리학자
+disorderly	무질서한, 어수선한
+indicate	나타내다
+disorganized	정리되지 않은, 혼란스러운
+mental	마음의
+state	상태
+tidy	정리하다, 정돈하다
+expert	전문가
+perspective	관점
+surroundings	주변
+positive	긍정적인
+atmosphere	분위기
+efficiently	효율적으로
+arrange	정리하다, 배열하다
+force	강요하다
+environment	환경
+achieve	이루다, 성취하다
+nutrient	양분, 영양분
+fertilizer	비료
+efficient	효율적인
+supply	공급하다
+usage	사용량
+triple	3배가 되다
+capacity	능력
+luxurious	호화로운
+condition	상황, 환경
+excite	~을 불러일으키다
+attention	관심
+agricultural	농업의
+desire	바라다, 원하다
+real estate	부동산
+weed	잡초
+monoculture	단일 작물 재배
+help out	도와주다
+notice	알아차리다
+social	사교적인
+attention	관심
+forget	잊다
+ignore	무시하다
+pass by	지나가다
+route	길
+strength	힘
+compete	경쟁하다
+improve	향상시키다
+achieve mastery	숙달하다
+prosperity	번영
+highly	매우
+athlete	운동선수
+equipment	장비
+face	직면하다
+hardship	고난
+preparation	준비
+mental	정신적인
+mindset	마음가짐
+strategy	전략
+struggle	투쟁
+resistance	저항
+behavior	행동
+identity	정체성
+indication	표시, 조짐, 나타남
+consciously	의식적으로
+nonconsciously	무의식적으로
+particular	특정한
+aspect	측면
+belief	믿음
+voter	투표자, 유권자
+vote	투표하다
+simply	단순히, 단지
+claim	주장하다
+perform	수행하다
+convince	설득하다
+perfectly	완벽하게
+match	일치하다
+pursue	추구하다
+electronic waste	전자 폐기물
+collection	수거, 수집
+rate	비율
+respectively	각각
+remain	계속 ~인 상태이다
+astrophysicist	천체 물리학자
+coin	(새로운 단어를) 만들다
+term	용어
+supernova	초신성
+childhood	어린 시절
+advanced	고급의
+mathematics	수학
+physics	물리학
+emigrate	이주하다
+numerous	수많은
+theory	이론
+profound	심오한, 깊은, 엄청난
+influence	영향
+astronomy	천문학
+patent	특허
+propulsion	추진, 추진력
+gourmet	미식가의, 미식가를 위한
+competition	대회
+recipe	조리법, 요리법
+registration	등록, 신청
+souvenir	기념품
+location	장소
+detail	세부 사항
+participant	참가자
+provide	~을 제공하다
+hunger	-
+describe	묘사하다, 서술하다
+examination	조사
+suggest	~을 나타내다
+abundant	풍부한
+obtainable	획득할 수 있는
+excessive	과도한
+permanent	영구적인
+agriculture	농업
+domesticate	(동물을) 길들이다, 사육하다
+immediate	즉각적인
+effect	영향
+development	발달
+settlement	정착지
+undoubtedly	의심의 여지없이
+population density	인구 밀도
+period	시기
+eventually	결국
+civilization	문명
+remains	유적, 유해
+epidemic	전염병의
+commodity	물건
+consumption	소비
+behavior	행동
+reveal	드러내다, 밝히다
+preference	선호
+delayed	지연된
+immediate	즉각적인
+agent	행위자
+pleasure	즐거움
+discounted	하락된
+non	-
+value	가치
+present	현재의, 선물
+occasion	경우, 일
+prematurely	조기에, 너무 이르게
+instead	대신에
+weakness	약함
+will	의지
+resolve	결심하다
+differently	다르게
+temptation	유혹
+envision	계획하다
+cost	대가
+interruption	방해
+describe	묘사하다
+literary	문학의
+unexpected	뜻밖의
+by coincidence	우연히
+untimely	부적절한 때의
+particularly	특히
+inspiration	영감
+unfinished	미완의
+disruption	방해
+significant	중대한
+professional	전문가
+critical	중요한
+control room	통제실
+operator	운영자
+stock	주식
+trader	거래자
+productivity	생산성
+generally	일반적으로
+level	수준
+lament	슬퍼하다
+scientific	과학적인
+evidence	증거
+demonstrate	증명하다
+lead to	~ ~로 이어지다
+reshaping	재형성, 재구조화
+auditory	청각의
+sharp	예리한
+eyesight	시력
+visual	시각적
+dramatic	극적인
+expansion	확장
+region	영역
+represent	나타내다
+string	현
+precisely	정확하게
+vital for	~ ~에 필수인
+spatial	공간의
+enlarge	확대하다
+physical	물리적
+architecture	구조
+direct	향하게 하다
+cortex	(대뇌) 피질(皮質)
+hippocampus	(대뇌 측두엽의) 해마
+mind	정신
+evolve	진화하다
+possibility	가능성
+competition	경쟁
+conflict	갈등
+slightly	조금
+possess	소유하다
+vital	필수적인
+advantage	이점, 우위
+predict	예측하다
+hostile	적대적인
+strike	공격하다
+accordingly	그에 따라
+significant	상당한
+military	군사적인
+struggle for	~ ~을 위한 투쟁
+decisive	결정적인
+mental	정신적인
+apply	적용하다
+over and over	반복해서
+succeeding	연속하는
+generation	세대
+opponent	상대
+gene	유전자
+offspring	후손
+descendant	후손
+potential	잠재력
+brainstorming	브레인스토밍
+process	과정
+brainwriting	브레인라이팅
+initial	초기의
+generate	생성하다
+separately	개별적으로
+preserve	보존하다
+independent	독립적인
+judgment	판단
+evaluate	평가하다
+refine	다듬다
+promising	유망한
+option	선택사항
+assess	평가하다
+individually	개별적으로
+elaborate	잘 다듬다
+advance	진전시키다
+attention	주목
+voice	의견
+conversation	대화
+especially	특히
+effective	효과적인
+achieve	성취하다
+collective intelligence	집단 지성
+anonymously	익명으로
+surface	드러내다
+agency	주체
+genuine	진정한
+decision	­
+authority	권한
+manufacturing	제조업의
+plant	공장
+for instance	예를 들어
+examine	조사하다
+assembly	­
+empower	권한을 주다
+make a decision	결정하다
+productivity	생산성
+improve	향상시키다
+self	­
+radically	급격하게
+shift	교대
+shift	전환시키다; 전환하다
+core	핵심의
+archiving	자료저장
+assume	추측하다, 당연시하다
+negative	부정적인
+threaten	위협하다
+harm	피해
+hazardous	위험한
+decade	십 년
+waste	폐기물
+document	문서
+workplace	직장
+invoice	운송장
+promising	유망한
+neglect	간과하다
+recent	최근의
+declare	발표하다
+fossil fuel	화석연료
+cloud	(온라인) 클라우드
+carbon	탄소
+emission	배출
+gray	잿빛의, 암울한
+attachment	첨부파일
+arise	발생하다, 생기다
+exotic	외래의
+species	종
+introduce	도입하다, 유입하다
+ecosystem	생태계
+squirrel	다람쥐
+compete for	~ ~을 위해 경쟁하다
+habitat	서식지
+native	토종의
+population	개체군
+adapt	조정하다, 맞추다
+digest	소화하다
+mature	익은
+densely	밀집해서
+varied	다양한, 다채로운
+woodland	삼림 (지대)
+extinction	멸종
+edge	우위
+acorn	도토리
+hunter	-
+typically	전형적으로
+frequently	빈번하게
+possession	소유물
+in particular	특히
+space	간격을 두다
+transport	이동시키다
+distance	거리
+shorten	단축하다, 줄이다
+interval	간격
+in turn	그 결과
+rapid	급격한
+population	인구
+agricultural	농업의
+require	필요로 하다
+labor	노동력
+counterpart	상대
+flexible	유연한
+migratory	이동하는
+migrate	이동하다
+instruction	지침
+inefficient	비효율적인
+adapt	적응하다
+farmland	농지
+breeding ground	번식지
+by comparison	이에 비해
+efficient	효율적인
+facilitate	촉진하다
+gene	유전자
+flexibility	유연성
+scholar	학자
+standard	표준
+organize	정리하다
+present	제시하다
+preserve	보존하다
+neglect	무시하다
+valuable	귀중한
+resource	자원
+useless	무용한
+vision	시력
+distinguish	구별하다
+commercial	상업의
+significant	상당한
+progress	진전
+embrace	받아들이다
+ensure	확실하게 하다
+serve	충족시키다
+to an extent	어느 정도
+seek	추구하다
+threat	위협
+perceive	인식하다
+stimulus	자극
+ultimately	궁극적으로
+violate	위반하다
+norm	규범
+context	상황
+punishment	처벌
+mastery	숙달
+active	활성의
+ingredient	성분
+stimulate	자극하다
+receptor	수용체
+activate	활성화시키다
+tissue	(세포) 조직
+exposure	노출
+uniquely	독특하게
+preference	선호
+pleasurable	즐거운
+alongside	~와 나란히
+instructor	교관
+appreciation	감탄
+meanwhile	한편
+patiently	참을성 있게
+completely	완전히
+indication	표시
+instrument	도구
+aircraft	비행기
+turbulence	난기류
