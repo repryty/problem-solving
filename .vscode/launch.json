@@ -5,8 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "지금열린파일",
-            "type": "python",
+            "name": "지금열린파이썬",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "두번째파이썬",
+            "type": "node",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
